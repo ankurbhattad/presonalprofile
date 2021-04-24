@@ -25,6 +25,7 @@ a:hover{
 .info{
     width: 30%;
     margin : auto;
+    line-height: 2;
 }
 
 /* 100% of font size is 16px */
